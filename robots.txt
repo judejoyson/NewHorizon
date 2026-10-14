@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://judejoyson.github.io/NewHorizon/sitemap.xml
